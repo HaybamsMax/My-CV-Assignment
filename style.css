@@ -1,0 +1,29 @@
+/*body*/
+body {
+    background-color: white;
+}
+.container{
+    background-color: #f9f9f9;
+    padding: 20px;
+    border: 1px 
+    solid lightgray ;
+     width: auto;
+
+}
+/*the header h1*/
+.header,h1{
+    font-family: Georgia;
+     color: blue;
+    background-color: lightgray;
+    font-weight: bold;
+    font-size: 24px;
+    letter-spacing: 1.6em;
+    word-spacing: 2em;
+    text-align: center; 
+}
+/*the h2 headers*/
+h2 {  font-family: Georgia;
+color: darkred;
+font-size: 18px;
+letter-spacing: 1.4em;
+}
